@@ -49,3 +49,5 @@ Analyze student satisfaction to improve the quality and planning of campus event
 •	Actionable recommendations for event improvement
 
 •	Trend identification to enhance future planning
+
+(The project is done in both Google Colab and PowerBI. To access the Colab one : https://colab.research.google.com/drive/1zdxuTLEsKMX3deKkSWGKdmreMbjDKqGN?usp=sharing)
